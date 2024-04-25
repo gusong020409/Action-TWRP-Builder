@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/TeamWin/android_device_xiaomi_ferrari'
+        default: 'https://github.com/ycly2333/device_EEBBK_H7000-twrp.git'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android-7.1'
+        default: 'twrp-9'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
